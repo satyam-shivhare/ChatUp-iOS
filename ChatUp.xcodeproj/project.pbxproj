@@ -11,6 +11,7 @@
 		592ABD8B29DF4A61006BEF25 /* FirebaseFirestore in Frameworks */ = {isa = PBXBuildFile; productRef = 592ABD8A29DF4A61006BEF25 /* FirebaseFirestore */; };
 		592ABD8D29DF4A61006BEF25 /* FirebaseFirestoreSwift-Beta in Frameworks */ = {isa = PBXBuildFile; productRef = 592ABD8C29DF4A61006BEF25 /* FirebaseFirestoreSwift-Beta */; };
 		592ABD8F29DF56B8006BEF25 /* MessagesManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 592ABD8E29DF56B8006BEF25 /* MessagesManager.swift */; };
+		593650752A43702C00E4C267 /* .gitignore.md in Resources */ = {isa = PBXBuildFile; fileRef = 593650742A43702C00E4C267 /* .gitignore.md */; };
 		59D5E41129DDEBF00073A01E /* ChatUpApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59D5E41029DDEBF00073A01E /* ChatUpApp.swift */; };
 		59D5E41329DDEBF00073A01E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59D5E41229DDEBF00073A01E /* ContentView.swift */; };
 		59D5E41529DDEBF10073A01E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 59D5E41429DDEBF10073A01E /* Assets.xcassets */; };
@@ -26,6 +27,7 @@
 		592ABD8729DF3874006BEF25 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		592ABD8E29DF56B8006BEF25 /* MessagesManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MessagesManager.swift; sourceTree = "<group>"; };
 		592ABD9029DF6941006BEF25 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		593650742A43702C00E4C267 /* .gitignore.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = .gitignore.md; sourceTree = "<group>"; };
 		59D5E40D29DDEBF00073A01E /* ChatUp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ChatUp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		59D5E41029DDEBF00073A01E /* ChatUpApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatUpApp.swift; sourceTree = "<group>"; };
 		59D5E41229DDEBF00073A01E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -80,6 +82,7 @@
 				59D5E41629DDEBF10073A01E /* Preview Content */,
 				59D5E42629DDFBD20073A01E /* Extensions.swift */,
 				592ABD8E29DF56B8006BEF25 /* MessagesManager.swift */,
+				593650742A43702C00E4C267 /* .gitignore.md */,
 			);
 			path = ChatUp;
 			sourceTree = "<group>";
@@ -177,6 +180,7 @@
 			files = (
 				59D5E41829DDEBF10073A01E /* Preview Assets.xcassets in Resources */,
 				59D5E41529DDEBF10073A01E /* Assets.xcassets in Resources */,
+				593650752A43702C00E4C267 /* .gitignore.md in Resources */,
 				592ABD8829DF3874006BEF25 /* GoogleService-Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
